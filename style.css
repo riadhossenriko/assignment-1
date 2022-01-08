@@ -1,0 +1,146 @@
+@font-face {
+  font-family: OpenSans;
+  src: url(OpenSans_Condensed-Regular.ttf);
+}
+body {
+marjiin: 0px;
+}
+h1 {
+  font-size: 70px;
+}
+.top {
+  display: flex;
+}
+.lime-color {
+  color: limegreen;
+}
+.half-width {
+  width: 40%;
+  padding-left: 150px;
+  
+}
+.half-width img {
+  width: 80%;
+  padding-left: 0px;
+}
+.link-button {
+  text-decoration: none;
+  background-color: black;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: white;
+}
+.h {
+  text-align: center;
+}
+.middle {
+  display: flex;
+  padding-left: 165px;
+}
+.commondiv {
+  
+  border-radius: 15px;
+  height: 300px;
+  width: 300px;
+  margin: 10px;
+}
+.h3 {
+  padding-top: 115px;
+  padding-left: 30px;
+}
+.p2 {
+  padding-left: 30px;
+}
+.imga {
+  background-size: 45%;
+  background-position: left 20px top 0px;
+  background-color: #edf5f7;
+  background-image: url(images/illustrators/illustrator-1.png);
+  background-repeat: no-repeat;
+}
+.imgb {
+  background-size: 45%;
+  background-position: left 20px top opx;
+  background-color: #feeeee;
+  background-image: url(images/illustrators/illustrator-2.png);
+  background-repeat: no-repeat;
+}
+.imgc {
+  background-size: 45%;
+  background-position: left 20px top opx;
+  background-color: #fff4d6;
+  background-image: url(images/illustrators/illustrator-3.png);
+  background-repeat: no-repeat;
+}
+.section3{
+  display: flex;
+}
+.half-width2 {
+  
+  margin: 10px;
+}
+.section3 {
+  background-size: 200px;
+  background-position: left 90px top 60px;
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+}
+.padleft {
+  padding-left: 150px;
+}
+.hh {
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+
+}
+.hhh {
+  font-size: 45px;
+}
+.fontsize{
+  font-size: 45px;
+}
+.imm{
+  padding-right: 50px;
+  background-size: 150px;
+  background-position: right 80px top 290px;
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+}
+.u{
+  text-align: center;
+}
+.section6{
+  display: flex;
+}
+.last{
+  
+  padding-left: 120px;
+  padding: 100px;
+  
+}
+.rel{
+  padding-left: 200px;
+}
+.nt{
+  font-size: 50px;
+}
+.bb{
+  background-size: 150px;
+  background-position: left 140px top 60px;
+  background-image: url(images/shapes/shape-6.png);
+  background-repeat: no-repeat;
+}
+.footer{
+  text-align: center;
+  color: white ;
+  background-color: black;
+}
+
+.cle{
+  color: red;
+}
+#stl{
+  border-left: red solid  3px;
+  
+}
